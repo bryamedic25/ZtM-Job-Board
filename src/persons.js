@@ -1221,3 +1221,42 @@ export const persons = [
     }
   },
 ];
+
+
+ {
+    id: [73],
+    name: "Bryan Alejandrez",
+    img: "https://avatars0.githubusercontent.com/u/36465212?s=460&v=4",
+    links: {
+      website: " ",
+      linkedin: " ",
+      github: "https://github.com/bryamedic25"
+    },
+    jobTitle: "Junior Front-End Developer",
+    location: {
+      city: "Whiteville",
+      state: "North Carolina",
+      country: "United States"
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
